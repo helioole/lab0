@@ -1,7 +1,7 @@
 # lab0
 
 ## Installing UNIX-based operating system.
-I've installed Manjaro LInux with the following steps:
+I've installed Manjaro Linux with the following steps:
 
 ### Step 1. Partition the space.
 I had to make space for installing Manjaro. Since I had a free disk D, I've decided to dedicate it to installing LInux.
