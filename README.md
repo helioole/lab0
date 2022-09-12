@@ -29,7 +29,6 @@ I've faced problems with "Partition", since I could use the free space which inc
 
 Afterwards, the hardest past left I just had to set all the users settings such as my name, name of the computer and password. Then I could see "Summary" and finally "Install" and after it "Finish" which looked like this:
 ![Screenshot from 2022-09-12 18-52-06](https://user-images.githubusercontent.com/113358365/189699642-d3bd7116-44f4-45c0-b4ff-c1ed7bebaa02.png)
-![Screenshot from 2022-09-12 18-52-06](https://user-images.githubusercontent.com/113358365/189699660-b936e6fd-72d3-4762-b609-a8ca0378c8c3.png)
 
 
 
