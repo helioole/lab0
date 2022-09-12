@@ -8,14 +8,17 @@ I had to make space for installing Manjaro. Since I had a free disk D, I've deci
 So, it looked like this on Windosk disk manager in the end of installing:
 ![Screenshot from 2022-09-12 18-19-55](https://user-images.githubusercontent.com/113358365/189692384-cf6ed65e-2895-462d-8462-c1705830747b.png)
 
+
 ### Step 2. Downloading the ISO in live USB
 I've downloaded the ISO from the Manjaro webside and burnt it to a USB flash drive. 
 ![Screenshot from 2022-09-12 18-21-56](https://user-images.githubusercontent.com/113358365/189693599-0f40db56-550a-46de-bdb2-97c2d0d8a855.png)
+
 
 ###  Step 3. Booting into a Live Environment
 I've restarted my computer and was pressing F2 key comtinously, so I could get it in BIOS settings. After changing Boot priority, I had Windows on UEFI and LInux on Legacy.
 
 Once the USB flash card is connected to the laptop, I could start the Manjaro installation.
+
 
 ### Step 4. Installing Manjaro Linux.
 *(The next screenshots will be provided as examples since i couldn't make screenshots during installation)*
