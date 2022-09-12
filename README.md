@@ -1,5 +1,5 @@
 # lab0
-Laboratory work №0. Racovcena Irina, FAF-212
+**Laboratory work №0. Racovcena Irina, FAF-212**
 
 ## Installing UNIX-based operating system.
 I've installed Manjaro Linux with the following steps:
