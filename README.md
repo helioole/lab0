@@ -21,7 +21,8 @@ Once the USB flash card is connected to the laptop, I could start the Manjaro in
 *(The next screenshots will be provided as examples since i couldn't make screenshots during installation)*
 
 I could launch the installer after clicking the "Launch Installer" button:
-![Manjaro-Installation-Language](https://user-images.githubusercontent.com/113358365/189696996-2be33f4c-ee97-4beb-8bda-4bb9216df4a0.png)
+![Screenshot from 2022-09-12 19-52-09](https://user-images.githubusercontent.com/113358365/189711894-8c62518e-a85e-48e5-83b2-da9142bfe007.png)
+
 
 Then I clicked "Continue" and had to set my location, time zone and click "Next" again. After this the next option was "Keyboard" where you have to set language and layout.
 I've faced problems with "Partition", since I could use the free space which included the whole disk D and had more than enough storage for installing Manjaro. Therefore, I had to divide it manually. The result was shown on the first screen above.
