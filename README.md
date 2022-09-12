@@ -1,5 +1,5 @@
 # lab0
-*OOP Lab0. Racovcena Irina. FAF-212*
+>OOP Lab0. Racovcena Irina. FAF-212
 
 ## Installing UNIX-based operating system.
 I've installed Manjaro Linux with the following steps:
@@ -38,11 +38,11 @@ Afterwards, the hardest past left I just had to set all the users settings such 
 
 
 ## Installing essential tools
-The first essential tool was zsh shell. I had it already after installing Manjaro so I skipped this step:![Screenshot from 2022-09-11 21-28-02](https://user-images.githubusercontent.com/113358365/189700030-ea8309ec-0c6a-4250-9170-221a7dbe03b6.png)
+The first essential tool was `zsh` shell. I had it already after installing Manjaro so I skipped this step:![Screenshot from 2022-09-11 21-28-02](https://user-images.githubusercontent.com/113358365/189700030-ea8309ec-0c6a-4250-9170-221a7dbe03b6.png)
 
 
 
-Then I installed oh-my-zsh which is the most popular framework for managing Zsh configuration, plugins, and themes:
+Then I installed `oh-my-zsh` which is the most popular framework for managing Zsh configuration, plugins, and themes:
 ![Screenshot from 2022-09-12 14-59-52](https://user-images.githubusercontent.com/113358365/189700685-be76574a-a8b5-48db-a0d4-4efffc4b93a1.png)
 
 
@@ -52,7 +52,7 @@ Also had to install Git:
 
 
 
-I downloaded base-level grub that included gcc:
+I downloaded `base-level grub` that included gcc:
 ![Screenshot from 2022-09-11 21-56-46](https://user-images.githubusercontent.com/113358365/189701181-9781a8a4-d413-4116-a13f-666874e49fe7.png)
 
 And my favorite IDE - Visual Studio Code
@@ -65,7 +65,7 @@ I made a folder named "lab0" whewe my C program is supposed to be:
 
 
 
-The main.c file included the "Hello, World!" program:
+The `main.c` file included the "Hello, World!" program:
 
 
 ![Screenshot from 2022-09-12 16-20-05](https://user-images.githubusercontent.com/113358365/189703839-f570af9a-bb2b-4277-9f1e-eb008f34fb54.png)
