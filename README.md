@@ -54,30 +54,42 @@ And my favorite IDE - Visual Studio Code
 
 ## Creating a Git repository
 I made a folder named "lab0" whewe my C program is supposed to be:
+
+
 ![Screenshot from 2022-09-12 19-42-05](https://user-images.githubusercontent.com/113358365/189710422-327fae31-0737-48c0-8056-b40beb8f541f.png)
 
 
 
 The main.c file included the "Hello, World!" program:
+
+
 ![Screenshot from 2022-09-12 16-20-05](https://user-images.githubusercontent.com/113358365/189703839-f570af9a-bb2b-4277-9f1e-eb008f34fb54.png)
 
 
 
 Further, I made a new repository on GitHub and named it "lab0". Therefore, I had to connect my GitHub account and Git on my laptop so I could I have acces to my program in this folder from GitHub website. Entered my user email and user name, added my first commit and changed branches from "master" to "main":
+
+
 ![Screenshot from 2022-09-12 19-42-58](https://user-images.githubusercontent.com/113358365/189710539-66f17596-08eb-4fdf-8b33-8ab8c475fb08.png)
 
 
 
 and pushed it:
+
+
 ![Screenshot from 2022-09-12 19-43-36](https://user-images.githubusercontent.com/113358365/189710602-cbe2a055-ce72-4492-a506-71ad59aea186.png)
 
 
 
 The result on GitHub webpage:
+
+
 ![Screenshot from 2022-09-12 17-09-29](https://user-images.githubusercontent.com/113358365/189707229-4998034a-0cb6-45fe-ac6f-4bfcb553a536.png)
 
 
 
 Now it's time for a Makefile, adding the second commit, compiling and running the program:
+
+
 ![Screenshot from 2022-09-12 19-43-48](https://user-images.githubusercontent.com/113358365/189710682-517a6c09-566b-44f9-8719-4f7bb2c15306.png)
 
