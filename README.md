@@ -3,6 +3,7 @@
 ## Installing UNIX-based operating system.
 I've installed Manjaro Linux with the following steps:
 
+
 ### Step 1. Partition the space.
 I had to make space for installing Manjaro. Since I had a free disk D, I've decided to dedicate it to installing LInux.
 So, it looked like this on Windosk disk manager in the end of installing:
