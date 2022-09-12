@@ -17,13 +17,13 @@ I've downloaded the ISO from the Manjaro webside and burnt it to a USB flash dri
 
 
 ###  Step 3. Booting into a Live Environment
-I've restarted my computer and was pressing F2 key comtinously, so I could get it in BIOS settings. After changing Boot priority, I had Windows on UEFI and LInux on Legacy.
+I've restarted my computer and was pressing `F2 key` comtinously, so I could get it in BIOS settings. After changing Boot priority, I had Windows on UEFI and LInux on Legacy.
 
 Once the USB flash card is connected to the laptop, I could start the Manjaro installation.
 
 
 ### Step 4. Installing Manjaro Linux.
-*(The next screenshots will be provided as examples since i couldn't make screenshots during installation)*
+>*(The next screenshots will be provided as examples since i couldn't make screenshots during installation)*
 
 I could launch the installer after clicking the "Launch Installer" button:
 ![Screenshot from 2022-09-12 19-52-09](https://user-images.githubusercontent.com/113358365/189711894-8c62518e-a85e-48e5-83b2-da9142bfe007.png)
