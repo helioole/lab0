@@ -25,14 +25,14 @@ Once the USB flash card is connected to the laptop, I could start the Manjaro in
 ### Step 4. Installing Manjaro Linux.
 >*(The next screenshots will be provided as examples since i couldn't make screenshots during installation)*
 
-I could launch the installer after clicking the "Launch Installer" button:
+I could launch the installer after clicking the `Launch Installer` button:
 ![Screenshot from 2022-09-12 19-52-09](https://user-images.githubusercontent.com/113358365/189711894-8c62518e-a85e-48e5-83b2-da9142bfe007.png)
 
 
-Then I clicked "Continue" and had to set my location, time zone and click "Next" again. After this the next option was "Keyboard" where you have to set language and layout.
-I've faced problems with "Partition", since I could use the free space which included the whole disk D and had more than enough storage for installing Manjaro. Therefore, I had to divide it manually. The result was shown on the first screen above.
+Then I clicked `Continue` and had to set my location, time zone and click `Next` again. After this the next option was `Keyboard` where you have to set language and layout.
+I've faced problems with `Partition`, since I could use the free space which included the whole disk D and had more than enough storage for installing Manjaro. Therefore, I had to divide it manually. The result was shown on the first screen above.
 
-Afterwards, the hardest past left I just had to set all the users settings such as my name, name of the computer and password. Then I could see "Summary" and finally "Install" and after it "Finish" which looked like this:
+Afterwards, the hardest past left I just had to set all the users settings such as my name, name of the computer and password. Then I could see `Summary` and finally `Install` and after it `Finish` which looked like this:
 ![Screenshot from 2022-09-12 18-52-06](https://user-images.githubusercontent.com/113358365/189699642-d3bd7116-44f4-45c0-b4ff-c1ed7bebaa02.png)
 
 
@@ -72,7 +72,7 @@ The `main.c` file included the "Hello, World!" program:
 
 
 
-Further, I made a new repository on GitHub and named it "lab0". Therefore, I had to connect my GitHub account and Git on my laptop so I could have acces to my program in this folder from GitHub website. Entered my user email and user name, added my first commit and changed branches from "master" to "main":
+Further, I made a new repository on GitHub and named it `lab0`. Therefore, I had to connect my GitHub account and Git on my laptop so I could have acces to my program in this folder from GitHub website. Entered my user email and user name, added my first commit and changed branches from `master` to `main`:
 
 
 ![Screenshot from 2022-09-12 19-42-58](https://user-images.githubusercontent.com/113358365/189710539-66f17596-08eb-4fdf-8b33-8ab8c475fb08.png)
