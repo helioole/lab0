@@ -71,7 +71,7 @@ The main.c file included the "Hello, World!" program:
 
 
 
-Further, I made a new repository on GitHub and named it "lab0". Therefore, I had to connect my GitHub account and Git on my laptop so I could I have acces to my program in this folder from GitHub website. Entered my user email and user name, added my first commit and changed branches from "master" to "main":
+Further, I made a new repository on GitHub and named it "lab0". Therefore, I had to connect my GitHub account and Git on my laptop so I could have acces to my program in this folder from GitHub website. Entered my user email and user name, added my first commit and changed branches from "master" to "main":
 
 
 ![Screenshot from 2022-09-12 19-42-58](https://user-images.githubusercontent.com/113358365/189710539-66f17596-08eb-4fdf-8b33-8ab8c475fb08.png)
