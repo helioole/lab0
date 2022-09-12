@@ -1,6 +1,6 @@
 # lab0
-*OOP Lab0 
-Racovcena Irina, FAF-212*
+*OOP Lab0*
+*Racovcena Irina, FAF-212*
 
 ## Installing UNIX-based operating system.
 I've installed Manjaro Linux with the following steps:
